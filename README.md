@@ -1,2 +1,2 @@
-<h1>for fucks sake just visit my strawpage</h1>
+<h1>just visit my strawpage man</h1>
 </URL>https://supercoolnads.straw.page<URL></URL>

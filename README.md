@@ -1,2 +1,10 @@
-<h1>just visit my strawpage man</h1>
-</URL>https://supercoolnads.straw.page<URL></URL>
+<html>
+<body>
+<center>
+<h1>olá.</h1>
+<img src="https://files.catbox.moe/jcitqm.jpg" height="100" width="100">
+<p>e agora, <em>adeus</em> porque não há nada pra fazeres nesta página.<p>
+<p>se estiveres muito aborrecido, sai daqui e vai ver <a href="https://cocomelon.com"">cocomelon.</a></p>
+</center>
+</body>
+</html>
